@@ -37,7 +37,7 @@ def encode_structure(struct):
     return struct_code
 
 
-# Best practice on Codewars.
+# Best practice on CodeWars.
 """
 def same_structure_as(original,other):
     if isinstance(original, list) and isinstance(other, list) and len(original) == len(other):
